@@ -1,6 +1,9 @@
 # Text-Preprocessing-Cleaning-Data
-#### Tokenise data:
 
+The Second step in predicting stock prices based on news;
+## Preprocessing the data
+
+#### Tokenise data:
 Tokenise means to convert long string of data into tokens i.e converting a string of sentence or paragraph to be stored 
 as list of words. For tokenising we are using nltk tokeniser **word_tokenise** or **sent_tokenise** from NLTK library.
 
